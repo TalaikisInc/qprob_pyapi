@@ -1,0 +1,6 @@
+python-dotenv
+uvloop
+sanic
+AoikLiveReload
+aiomysql
+sanic_compress
