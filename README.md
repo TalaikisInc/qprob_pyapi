@@ -1,6 +1,9 @@
 # QProb API (Python version)
+[![Build Status](https://travis-ci.org/xenu256/qprob_pyapi.svg?branch=master)](https://travis-ci.org/xenu256/qprob_pyapi)
 
 # Demo(s)
+
+Those will (or already) no longer work under Python. See [qprob_goapi](https://github.com/xenu256/qprob_goapi) instead.
 
 * https://api.qprob.com/ (quantitative trading)
 * https://api.stckmrktnws.com (stock market)
